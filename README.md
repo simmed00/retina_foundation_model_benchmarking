@@ -1,0 +1,2 @@
+# retina_foundation_model_benchmarking
+benchmarking finetune performance of various foundation models for ophthalmology
